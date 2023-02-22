@@ -1,0 +1,17 @@
+2023-01-06 17:29:06,835-root-INFO-开始添加该code对应的照片：LAN_EXP-8006
+2023-01-06 17:29:06,835-root-INFO-找到上述code:---LAN_EXP-8006---对应的照片路径：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部
+2023-01-06 17:29:07,648-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\0000c40486b750697c8060cc0344ef89.jpg
+2023-01-06 17:29:09,180-root-INFO-出错了:'dict' object has no attribute 'json'
+2023-01-06 17:29:09,180-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\000bd9d55a83f56259d4cd1675b1c048.jpg
+2023-01-06 17:29:09,844-root-INFO-出错了:'dict' object has no attribute 'json'
+2023-01-06 17:29:09,844-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\000e3578beb5a092c34391cde4cdf5c9.jpg
+2023-01-06 17:29:10,464-root-INFO-出错了:'dict' object has no attribute 'json'
+2023-01-06 17:29:10,465-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\001da342888d03a2dac234d070f0e6e7.jpg
+2023-01-06 17:29:11,158-root-INFO-出错了:'dict' object has no attribute 'json'
+2023-01-06 17:29:11,158-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\001fd37321e68f6e8b50123fa7dc111c.jpg
+2023-01-06 17:29:11,864-root-INFO-出错了:'dict' object has no attribute 'json'
+2023-01-06 17:29:11,865-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\002b25e3b07bf4e1bb83116fc91a8da5.jpg
+2023-01-06 17:29:12,677-root-INFO-出错了:'dict' object has no attribute 'json'
+2023-01-06 17:29:12,677-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\003b3f927487a5f3cc4f1d299ac115cf.jpg
+2023-01-06 17:29:13,470-root-INFO-出错了:'dict' object has no attribute 'json'
+2023-01-06 17:29:13,470-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00a23887754b172e08d653d77600bc17.jpg

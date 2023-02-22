@@ -1,0 +1,54 @@
+2023-01-06 17:37:56,689-root-INFO-开始添加该code对应的照片：LAN_EXP-8006
+2023-01-06 17:37:56,689-root-INFO-找到上述code:---LAN_EXP-8006---对应的照片路径：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部
+2023-01-06 17:37:56,775-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\0000c40486b750697c8060cc0344ef89.jpg
+2023-01-06 17:37:57,412-root-INFO-{'code': 0, 'data': {'face': [{'registerId': '9hEQiWXRdrBoOSJ8TVfUz3YcIG7sbx', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:37:57,412-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\000bd9d55a83f56259d4cd1675b1c048.jpg
+2023-01-06 17:37:58,128-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'qXpInagvk7jM9ZNOKmyGJQl0Tw1P4H', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:37:58,128-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\000e3578beb5a092c34391cde4cdf5c9.jpg
+2023-01-06 17:37:58,904-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'DLit2678raeNbIPwJZ9dgYsXWE0lOj', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:37:58,904-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\001da342888d03a2dac234d070f0e6e7.jpg
+2023-01-06 17:37:59,569-root-INFO-{'code': 0, 'data': {'face': [{'registerId': '8uQfIxXVsTlkoyZw5jGYRqOiA0rn3h', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:37:59,569-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\001fd37321e68f6e8b50123fa7dc111c.jpg
+2023-01-06 17:38:00,199-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'qui97dyZFmg6pteRxLjVs2ok3KhlUc', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:00,200-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\002b25e3b07bf4e1bb83116fc91a8da5.jpg
+2023-01-06 17:38:00,846-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'KhTqRrz4A9DJGkyBC3oFHZUpIWtMax', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:00,846-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\003b3f927487a5f3cc4f1d299ac115cf.jpg
+2023-01-06 17:38:01,526-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'DMIo2zZPQGgbsUAwluxeXdrhkSiH6V', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:01,526-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00a23887754b172e08d653d77600bc17.jpg
+2023-01-06 17:38:02,230-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'W5JZAr2PeM3fTNbFqYV6OwvzuShpKH', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:02,230-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00a3ed38a347171bdb4c0c897f3588a9.jpg
+2023-01-06 17:38:02,923-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'MBaudoXrOE2vQHNYxtZ4jhFKcLSsCk', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:02,924-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00a5af360b59f735c1aafbd99292c487.jpg
+2023-01-06 17:38:03,595-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'qphLbTJm7ZgnQNreHyIY139oDtvRWE', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:03,595-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00a70dbe6b1c8feaba1e18199c3497fe.jpg
+2023-01-06 17:38:04,248-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'CBukdJ3Gjc2w98ntfgihFxTNHRsYDU', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:04,249-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00ada436609f06220d4e04b6f847fe46.jpg
+2023-01-06 17:38:04,899-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'NI3wxhCnpFS5Hg2TiyBjs1e9d8maP6', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:04,899-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00b131e9ede1dc7571d7a65594a88d4e.jpg
+2023-01-06 17:38:05,555-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'poSsPDtXmfA1nxhM4dUqF68zHNR9YZ', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:05,556-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00b46d6b4e64f8c86c3e701a0f07a8b2.jpg
+2023-01-06 17:38:06,199-root-INFO-{'code': 0, 'data': {'face': [{'registerId': '3LIXdzA0KS1PkBeFQbZWUHlRw9EMYr', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:06,200-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00c0460574808043b3de810f0b000418.jpg
+2023-01-06 17:38:06,884-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'hgRBcSXbTDinHYuZ7d58kF2PKI0rO9', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:06,884-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00c21ef9f5529dd6165e113dfa0c0455.jpg
+2023-01-06 17:38:07,605-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'oRwlPWpmq2GInV5DEOetMjaAK8y4vT', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:07,606-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00c4c62eb3bf6ec1e37c07a80fb09882.jpg
+2023-01-06 17:38:08,305-root-INFO-{'code': 0, 'data': {'face': [{'registerId': 'MVG1fczYTEhKb9uI5yFwgN0j3dUesp', 'result': False}]}, 'message': '操作成功'}
+LAN_EXP-8006:该照片注册结果不符合预期
+2023-01-06 17:38:08,307-root-INFO-开始注册该照片：\\192.168.1.8\qa\算法测试照片库\注册测试\未检测到面部\00c4d1808eebd3c9d8f27d134effa169.jpg
