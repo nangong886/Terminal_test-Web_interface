@@ -31,12 +31,11 @@ def trafficPerson(sessionId):
     r_ry = res_ry.json()
     # print(r_ry)
     if r_ry['code'] == 0:
-        person_ids = []
+        person_ids = []  # 如果响应体r_ry中code为0，定义一个列表变量person_ids
         if r_ry["data"]["total"] > 0:
-            datas = r_ry["data"]["list"]
-
-            for data in datas:
-                person_ids.append(data["person"]["personId"])
+            datas = r_ry["data"]["list"]  # 且如果响应体中data的total数大于0，则获取data的list并赋值为datas
+            for list in datas:
+                person_ids.append(list["person"]["personId"])  # 循环取人员信息的人员Id放到datas列表
                 # print(person["personId"])
         return person_ids
     else:
@@ -59,10 +58,9 @@ def deletePerson(sessionId, personId):
 if __name__ == '__main__':
     session_id = login()
     person_ids = trafficPerson(session_id)
-
     if len(person_ids) == 0:
         person_id = []
-        print("人员列表为空")
+        print("人员列表为空")  # 容错处理：如果列表person_ids为空时，再定义一个列表变量person_id（里面是预备删除的人员），并打印人员列表为空
     else:
         person_id = [person_ids[0]]
-    deletePerson(session_id, person_id)
+    deletePerson(session_id, person_id)  # 否则不为空时，取列表person_ids中的第一个并赋值给列表person_id，最终执行删除方法
