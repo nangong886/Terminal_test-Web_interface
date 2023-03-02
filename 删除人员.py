@@ -56,11 +56,11 @@ def deletePerson(sessionId, personId):
 
 
 if __name__ == '__main__':
-    session_id = login()
-    person_ids = trafficPerson(session_id)
+    sessionId = login()
+    person_ids = trafficPerson(sessionId)
     if len(person_ids) == 0:
-        person_id = []
+        # person_id = []
         print("人员列表为空")  # 容错处理：如果列表person_ids为空时，再定义一个列表变量person_id（里面是预备删除的人员），并打印人员列表为空
     else:
-        person_id = [person_ids[0]]
-    deletePerson(session_id, person_id)  # 否则不为空时，取列表person_ids中的第一个并赋值给列表person_id，最终执行删除方法
+        # person_id = [person_ids[0]]
+        deletePerson(sessionId, person_ids)  # 否则不为空时，取列表person_ids中的第一个并赋值给列表person_id，最终执行
